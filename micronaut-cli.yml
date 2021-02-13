@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.prieto
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, gradle, graphql, h2, hibernate-validator, http-client, http-session, java, java-application, jdbc-hikari, junit, logback, netty-server, properties, readme, shade]
